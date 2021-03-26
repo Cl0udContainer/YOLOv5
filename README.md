@@ -33,3 +33,5 @@ yolov5에는 크게 **YOLOv5s, YOLOv5m, YOLOv5l, YOLOv5x**의 4가지 모델이 
 <pre><code>#탐지 결과를 Google Drive로 복사하기.
 !cp /content/yolov5/inference/output/탐지 결과 영상 파일 이름 /content/drive/My\ Drive/저장하고자 하는 경로</code></pre>   
 ***   
+학습을 진행한 후, 영상에서 객체를 탐지한 모습이다.
+<img src=https://user-images.githubusercontent.com/81284736/112675486-8f9dcc80-8eaa-11eb-8626-43fe4537f682.gif>
